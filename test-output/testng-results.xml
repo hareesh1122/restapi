@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2917" started-at="2022-07-04T04:10:53Z" finished-at="2022-07-04T04:10:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2917" started-at="2022-07-04T04:10:53Z" finished-at="2022-07-04T04:10:56Z">
+      <class name="day1.restassured">
+        <test-method status="PASS" signature="createuser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:day1.restassured@33a10788]" name="createuser" duration-ms="2907" started-at="2022-07-04T09:40:53Z" data-provider="testdata1" finished-at="2022-07-04T09:40:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hareesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[g]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hareesh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hareesh@g.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9977553311]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createuser -->
+      </class> <!-- day1.restassured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
